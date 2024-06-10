@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.exe
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.deps.json
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.runtimeconfig.json
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.dll
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.pdb
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.dll
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\refint\DepositCalculator.dll
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.pdb
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\DepositCalculator\DepositCalculator\obj\Debug\net8.0\ref\DepositCalculator.dll
